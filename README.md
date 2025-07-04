@@ -9,7 +9,7 @@
 ********************************************************************************
 -->
 
-# DaniilLemes (rip)
+# DaniilLemes 
 
 **3rd-Year Computer Science Student • Blockchain • Reverse Engineering • AI • Cybersecurity**
 
