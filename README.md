@@ -13,31 +13,42 @@
 
 **3rd-Year Computer Science Student • Blockchain • Reverse Engineering • AI • Cybersecurity**
 
+
+
 ---
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 📖 About Me
 I’m a third-year Computer Science student at the Polish-Japanese Academy of Information Technology (PJATK), driven by the seamless fusion of robust functionality and thoughtful user experience in software design. With a passion for cybersecurity, reverse engineering, blockchain and AI development, I strive to tackle real-world challenges through innovation and collaboration.
 
 ---
 
-## 🔭 Current Focus
-- **Security-Driven Applications**  
-  Building tools and prototypes that integrate vulnerability research with practical, deployable solutions.  
-- **AI & Automation**  
-  Experimenting with intelligent agents and workflows to streamline complex tasks.  
-- **Open-Source Contributions**  
-  Actively contributing to and maintaining projects that advance knowledge in security research and system design.
+### 🔭 Current Focus
+- **Security-Driven Apps**: Integrating vulnerability research with deployable tools  
+- **AI & Automation**: Intelligent agents and workflow optimization  
+- **Open Source**: Contributing to security-and-systems research projects  
 
 ---
 
-## 🌱 Learning & Exploration
-- **Advanced Cryptography** — Post-quantum algorithms, secure multi-party computation  
-- **Containerization & Orchestration** — Docker, Kubernetes security hardening  
-- **Adversarial AI** — Crafting and defending against model attacks, robust training techniques  
-- **Distributed Systems** — Building resilient, peer-to-peer architectures with Rust’s async ecosystems  
+### 🌱 Learning & Exploration
+- **Advanced Cryptography** — Post-quantum algorithms, MPC  
+- **Container Security** — Docker & Kubernetes hardening  
+- **Adversarial AI** — Model-attack & defense techniques  
+- **Distributed Systems** — Async, peer-to-peer in Rust  
 
 ---
 
+### 🔍 Areas of Interest
+- **Web Security** — OWASP Top 10, pentesting  
+- **Reverse Engineering** — Binary analysis, instrumentation  
+- **AI Development** — Neural nets, RL, NLP  
+- **System Architecture** — Microservices, event-driven design  
+
+</td>
+<td width="50%" valign="top">
+  
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -58,30 +69,24 @@ I’m a third-year Computer Science student at the Polish-Japanese Academy of In
 
 ---
 
-## 🔍 Areas of Interest
-- **Web Security** – OWASP Top 10, penetration testing, exploit development  
-- **Reverse Engineering** – Binary analysis, disassembly, dynamic instrumentation  
-- **AI Development** – Neural networks, reinforcement learning, NLP applications  
-- **System Architecture** – Microservices, event-driven systems, fault tolerance
+### 📫 Get in Touch
+- 📧 [daniel.lemeszczenko@gmail.com](mailto:daniel.lemeszczenko@gmail.com)  
+- 🐙 [github.com/DaniilLemes](https://github.com/DaniilLemes)  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Get in Touch
-- 📧 **Email:** [daniel.lemeszczenko@gmail.com](mailto:daniel.lemeszczenko@gmail.com)  
-- 🐙 **GitHub:** [github.com/DaniilLemes](https://github.com/DaniilLemes)  
-
----
-
-> “The best way to predict the future is to invent it.”
+> “The best way to predict the future is to invent it.”  
 > — Alan Kay
-
----
 
 <p align="center">
   <a href="https://github.com/DaniilLemes">
     <img src="https://komarev.com/ghpvc/?username=DaniilLemes&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://github.com/DaniilLemes?tab=repositories">
+  <a href="https://img.shields.io/github/followers/DaniilLemes?label=Follow&style=social">
     <img src="https://img.shields.io/github/followers/DaniilLemes?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
