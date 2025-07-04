@@ -10,7 +10,6 @@
 -->
 
 # DaniilLemes (rip)
-[![🇵🇱 PJATK | University](https://img.shields.io/badge/🇵🇱%20PJATK%20%7C%20University-red?style=flat-square)](https://pja.edu.pl/)
 
 **3rd-Year Computer Science Student • Blockchain • Reverse Engineering • AI • Cybersecurity**
 
